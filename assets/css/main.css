@@ -1697,6 +1697,7 @@ header h1 {
  body.is-touch .main {
      background-attachment: scroll !important;
 }
+
  @media screen and (max-width: 1920px) {
      .main.style2 .content {
          width: 40%;
@@ -1875,6 +1876,7 @@ header h1 {
      -ms-transform: translateY(100%);
      transform: translateY(100%);
 }
+
  @media screen and (max-width: 736px) {
      #contact .box {
          padding: 1.5em 1.5em 2em 1.5em;
